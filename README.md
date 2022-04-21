@@ -18,7 +18,7 @@
  -->
 ## 📖 Stack
 
-- 📕 Language : Java, Kotlin, Python, C, Dart,  HTML, CSS
+- 📕 Language : Java, Kotlin, Python, C, Dart,  HTML, CSS, Java Script
 - 📗 Back-End : Django, Node.js, MySQL
 - 📘 Application : Android, Flutter
 
