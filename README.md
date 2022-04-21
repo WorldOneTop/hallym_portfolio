@@ -3,26 +3,25 @@
 > ㅁㄴㅇ
 > ㅁㄴㅇ
 
-🕹 Github : [WorldOneTop](https://github.com/WorldOneTop)
+🕹 깃허브 : [WorldOneTop](https://github.com/WorldOneTop)
 
-🖊 Blog : [Velog](https://velog.io/@dlwpdlf147)
+🖊 기술 블로그 : [Velog](https://velog.io/@dlwpdlf147)
 
-✉ Email : dlwpdlf147@naver.com
+✉ 이메일 : dlwpdlf147@naver.com
 <!-- ## 🏆 수상 경력
 
 - 18년도 서공제 5등 수상 
-- 19년도 서공제 5등 수상 
+- 19년도 제일이가 제일이지 팀 창단 
 - 20년도 특급전사 달성
 - 21년도 육군 병장 만기 전역
 - 22년도 
  -->
 ## 📖 Stack
 
-- 📕 Language : Java, Kotlin, Python, Dart, C
-- 📙 Framework : Node.js, Django, Flutter, 
-- 📗 Database : MySQL, SQLite
-- 📘 OS : Centos, Ubuntu
-- 📗 etc : AWS, Docker, Github, H
+- 📕 Language : Java, Kotlin, Python, C, Dart,  HTML, CSS
+- 📗 Back-End : Django, Node.js, MySQL
+- 📘 Application : Android, Flutter
+
 
 
 ## 📌 Projects :
