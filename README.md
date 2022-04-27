@@ -66,6 +66,6 @@
 - 목적 : 공대 학술제인 서공제에 출시된 작품으로 무기(총)를 가지고 서로를 맵에 떨어뜨리거나 체력을 모두 닳게하여 경쟁하는 방식의 게임
 - 개발 스택 : Android
 
-![shadowgun](img/shadowgun.jpg) ![수상 사진](img/서공제 수상.jpg)
+![shadowgun](img/shadowgun.jpg) ![수상 사진](img/서공제_수상.jpg)
 
 
