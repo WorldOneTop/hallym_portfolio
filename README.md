@@ -28,7 +28,7 @@
 ## 📌 Projects :
 ### 🙏 한림감사운동 ( Android )
 - 목적 : 감사운동을 원활히 진행할 수 있도록 UX기반의 어플 제작
-- 개발 스택 : Android, Django, Firebase Cloud Messaging, Oracle DB
+- 개발 스택 : Android, Django, Firebase Cloud Messaging, Oracle DB, MySQL
 
 ![감사운동1](img/감사운동_1.png) ![감사운동2](img/감사운동_2.png)
 
@@ -58,7 +58,7 @@
 
 ### 🏞 서울스포츠 (mobile web)
 - 목적 : 서울시 공공 데이터 활용 공모전에 참가용으로 서울의 공원 데이터를 이용해 커뮤니티 및 공원 정보 제공
-- 개발 스택 : Android, Bitnami, Bootstrap
+- 개발 스택 : Android, Bitnami, Bootstrap, PHP
 
 ![서울스포츠](img/서울스포츠_1.png) ![서울스포츠](img/서울스포츠_2.png)
  
